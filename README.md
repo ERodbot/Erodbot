@@ -8,6 +8,21 @@ Here is some information about me:
 
 Technical Skills: Proficient in many programming languages and ditigal tools. I've been an asistant for the IT support team of the Computer Engineering School in ITCR for a year and helped many professors and students solve a wide array of technical problems. 
 
+Some of the languages and technologies that I have experience on are:
+
+* python
+* javascript
+* c
+* java
+* node.js
+* react
+* angular
+* mongodb
+* postresql
+* sql server
+* figma
+* postman
+
 Interests: My current interests include: Iot, IT, cybersecurity, operatong systems and im currently improving my skills in low level learning, network protocols and server and hardware oriented programming. 
 
 Collaboration: as a student and as part of a team of IT support, I've experienced and learn to collaborate with others and the importance of effective communications. I'm a firm believer in the idea that leaders should be compassionate but firm, and that working as a team means learning to make the best out of your own skills and being willing to learn new things from others, as well as pushing others to improve their own skills.
