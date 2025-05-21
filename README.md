@@ -1,54 +1,55 @@
-#  ✨ About me
+# 👋 Hi, I'm Emanuel Rodríguez 
 
-**'Cybernet enthusiast and creative mind'**
+**Cybernet Enthusiast | Creative Problem Solver | Lifelong Learner**
 
-Hi! I'm Emanuel Rodríguez, a CS student at ITCR, Costa Rica and an extremely curius mind, that's why I'm always trying to expand my kwnoedge about many different topics. I believe in the power of words, and the potential that everyone has if they believe in themselfs and have the correct guidence. 
-I am hard-working and compromised, and set goals to myself to both challenge me and improve. 
-Here is some information about me:
+🌎 Computer Science Student @ ITCR, Costa Rica  
+💻 IT Support Assistant @ Computer Engineering School, ITCR  
+🚀 Passionate about low-level systems and secure computing  
 
-Technical Skills: Proficient in many programming languages and ditigal tools. I've been an asistant for the IT support team of the Computer Engineering School in ITCR for a year and helped many professors and students solve a wide array of technical problems. 
+## 🔧 Technical Skills
 
-Some of the languages and technologies that I have experience on are:
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-* python
-* javascript
-* c
-* java
-* node.js
-* react
-* angular
-* mongodb
-* postresql
-* sql server
-* figma
-* postman
+### Technologies & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-Interests: My current interests include: Iot, IT, cybersecurity, operatong systems and im currently improving my skills in low level learning, network protocols and server and hardware oriented programming. 
+## 🔍 Current Interests & Focus Areas
 
-Collaboration: as a student and as part of a team of IT support, I've experienced and learn to collaborate with others and the importance of effective communications. I'm a firm believer in the idea that leaders should be compassionate but firm, and that working as a team means learning to make the best out of your own skills and being willing to learn new things from others, as well as pushing others to improve their own skills.
+- 🛡️ **Cybersecurity**: Exploring secure system design and vulnerability analysis
+- 💾 **Operating Systems**: Deep diving into kernel development and system programming
+- 🌐 **Distributed Systems**: Learning about scalable architectures and consensus algorithms
+- ☁️ **Cloud Computing**: Experimenting with cloud-native applications and serverless architectures
+- 🔌 **Low-Level Programming**: Mastering hardware-oriented and performance-critical coding
 
-## 🌐 Socials:
+## 💡 Philosophy & Approach
 
+> "Leaders should be compassionate but firm, and teamwork means amplifying each other's strengths."
 
+With 1+ year in IT support, I've learned:
+- The art of **clear technical communication**
+- How to **diagnose and solve complex problems** systematically
+- The value of **mentorship** in tech communities
+- That **continuous learning** is the most important skill in tech
 
+## 🌐 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+---
 
-
-
-
-
-<!--
-**ERodbot/Erodbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ From [ERodbot](https://github.com/ERodbot)
